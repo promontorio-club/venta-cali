@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Pance.html",
+    "currentPage": "Pance-370-2296-001.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -632,7 +632,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97234.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97240.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97234.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97240.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1210,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133341.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1410,7 +1410,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131736.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131742.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1453,7 +1453,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131736.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131742.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1988,7 +1988,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133341.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1997,7 +1997,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "&nbsp;FORMULARIO DE CONTACTO<br>NORMANDÍA - GUÍA PROFESIONAL&nbsp;",
+          "title": "&nbsp;FORMULARIO DE CONTACTO<br>CENTENARIO - GUÍA PROFESIONAL&nbsp;",
           "subtitle": "Ingrese sus datos para contratar una guía profesional en este sector de la ciudad",
           "form": {
             "action": "promontorio.club@icloud.com",
@@ -3725,7 +3725,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112539.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112545.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3768,7 +3768,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112539.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112545.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4161,8 +4161,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45037.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112544.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4171,8 +4171,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45037.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112544.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4181,8 +4181,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45037.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112538.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112544.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4303,7 +4303,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133335.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133341.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
