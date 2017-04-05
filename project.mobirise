@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "index.html",
+    "currentPage": "Normandia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -632,7 +632,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97210.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97216.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97210.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97216.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -779,19 +779,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
               },
               {
                 "tags": "Hasta $ 200 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -799,10 +799,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
+              },
+              {
+                "tags": "Hasta $ 100 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -862,9 +872,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -872,9 +882,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -882,9 +892,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
+              },
+              {
+                "tags": "Hasta $ 400 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": true
               }
             ],
@@ -945,9 +965,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -958,17 +978,27 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-normanda-duplex-5-copia-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-normanda-duplex-5-copia-2000x1333.jpg",
                 "caption": "<a href=\"Normandía-370-204-001.html\">PENTHOUSE $ 730 MM / 250 m2</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Hasta $ 900 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
+              },
+              {
+                "tags": "Hasta $700 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1028,9 +1058,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1038,9 +1068,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1048,9 +1078,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
+              },
+              {
+                "tags": "Hasta $2.000 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": true
               }
             ],
@@ -1170,7 +1210,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133311.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1370,7 +1410,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131712.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131718.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1413,7 +1453,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131712.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131718.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1948,7 +1988,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133311.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3685,7 +3725,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112515.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3728,7 +3768,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112515.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4111,8 +4151,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45013.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112514.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4121,8 +4161,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45013.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112514.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4131,8 +4171,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45013.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112514.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4141,8 +4181,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45013.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112514.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
@@ -4263,7 +4303,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133311.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
