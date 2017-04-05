@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Normandia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/6-normanda-duplex-10-2000x1333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali24-2000x1500.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -632,7 +632,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97222.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97216.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97222.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1210,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133323.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1410,7 +1410,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131718.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131724.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1453,7 +1453,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131718.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131724.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1988,7 +1988,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133323.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3725,7 +3725,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112527.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3768,7 +3768,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112527.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4151,8 +4151,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112526.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4161,8 +4161,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112526.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4171,8 +4171,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112526.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4181,8 +4181,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45019.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112526.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
@@ -4303,7 +4303,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133323.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
