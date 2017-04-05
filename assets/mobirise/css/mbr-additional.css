@@ -512,6 +512,13 @@ h6,
 #msg-box3-5k .btn {
   font-size: 11px;
 }
+#header3-5n .mbr-section-title,
+#header3-5n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5n SMALL {
+  font-size: 8px;
+}
 #msg-box3-5l .mbr-section-title,
 #msg-box3-5l p {
   color: #000;
@@ -526,6 +533,13 @@ h6,
 #msg-box3-5l .btn {
   font-size: 11px;
 }
+#header3-5o .mbr-section-title,
+#header3-5o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5o SMALL {
+  font-size: 8px;
+}
 #msg-box3-5m .mbr-section-title,
 #msg-box3-5m p {
   color: #000;
@@ -539,6 +553,13 @@ h6,
 }
 #msg-box3-5m .btn {
   font-size: 11px;
+}
+#header3-5p .mbr-section-title,
+#header3-5p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5p SMALL {
+  font-size: 8px;
 }
 #form1-5j .form-control-label {
   color: #efefef;
