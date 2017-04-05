@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "index.html",
+    "currentPage": "Normandía-370-204-001.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1693,7 +1693,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Normandía-370-204-001.html#header3-5h\" data-toolbar=\"-mbrBtnMove\">ESPECIFICACIONES</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Normandía-370-204-001.html#header3-2i\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Centenario-370-206-001.html#form1-47\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Normandía-370-204-001.html#header3-5h\" data-toolbar=\"-mbrBtnMove\">ESPECIFICACIONES</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Normandía-370-204-001.html#header3-2i\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Normandía-370-204-001.html#form1-2m\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -3680,8 +3680,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3690,8 +3690,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3700,8 +3700,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3710,8 +3710,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
