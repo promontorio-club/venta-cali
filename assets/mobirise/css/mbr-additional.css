@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -473,9 +474,90 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a575!important;
 }
+#msg-box3-5i .mbr-section-title,
+#msg-box3-5i p {
+  color: #000;
+}
+#msg-box3-5i .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-5i .lead P {
+  color: #efefef;
+}
+#msg-box3-5i .btn {
+  font-size: 11px;
+}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1 H3 {
+  font-size: 30px;
+}
+#header3-1 SMALL {
+  font-size: 15px;
+}
+#msg-box3-5k .mbr-section-title,
+#msg-box3-5k p {
+  color: #000;
+}
+#msg-box3-5k .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-5k .lead P {
+  color: #efefef;
+}
+#msg-box3-5k .btn {
+  font-size: 11px;
+}
+#msg-box3-5l .mbr-section-title,
+#msg-box3-5l p {
+  color: #000;
+}
+#msg-box3-5l .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-5l .lead P {
+  color: #efefef;
+}
+#msg-box3-5l .btn {
+  font-size: 11px;
+}
+#msg-box3-5m .mbr-section-title,
+#msg-box3-5m p {
+  color: #000;
+}
+#msg-box3-5m .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-5m .lead P {
+  color: #efefef;
+}
+#msg-box3-5m .btn {
+  font-size: 11px;
+}
+#form1-5j .form-control-label {
+  color: #efefef;
+}
+#form1-5j .mbr-section-title {
+  color: #ffffff;
+  font-size: 24px;
+}
+#form1-5j SMALL {
+  color: #efefef;
+  font-size: 15px;
+}
+#contacts1-4r P {
+  font-size: 13px;
+}
+#footer1-4s P {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
 }
 
 

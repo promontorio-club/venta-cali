@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Centenario-370-206-001.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 198,
+    "uniqCompNum": 203,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -133,9 +133,60 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://promontorio-club.github.io/land-page/index.html\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://promontorio-club.github.io/ventas-valle-del-cauca/\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>REGRESAR / VALLE DEL CAUCA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\">____________________________________________</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">SELECCIONAR ZONA DE CALI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://promontorio-club.github.io/land-page/index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>NORTE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALAMEDA DEL RÍO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ÁLAMOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALCÁZARES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALMENDROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTOS DE MENGA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTOS &nbsp;MAÑANITAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARROYOHONDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BOLIVARIANO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DE LOS ÁLAMOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DE LOS ANDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BUENO MADRID &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALIMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALIMIO NORTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CAMILO TORRES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;CHIPICHAPE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;CIUDAD LOS ÁLAMOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;COLINAS DE ARROYOALTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;COLINAS DE ARROYOHONDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;COLINAS DEL BOSQUE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;COMFENALCO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;DAPA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;EL BOSQUE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;EL GUABITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;EL SAMÁN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;EL SENA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;EVARISTO GARCÍA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;FÁTIMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;FLORA INDUSTRIAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;FLORALIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;FONAVIEMCALI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;GAITÁN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;GUILLERMO VALENCIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;IGNACIO RENGIFO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;INDUSTRIA DE LICORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;INDUSTRIAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;JORGE ELIECER GAITÁN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA ALIANZA &nbsp; &nbsp; &nbsp; &nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA CAMPIÑA &nbsp; &nbsp; &nbsp; &nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA DOLORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA ELVIRA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA ESMERALDA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA FLORA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA ISLA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA MERCED &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LA RIVERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LAS DELICIAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LOS ALCÁZARES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LOS ANDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LOS GUADUALES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LOS GUAYACANES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;LOS PARQUES BARRANQUILLA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;MANZANARES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;MARCO FIDEL SUAREZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;MENGA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;METROPOLITANO DEL NORTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;MIRADOR DE LAS FLORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;NUEVA SALOMIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;OASIS DE CONFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;OLAYA HERRERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PALMAS DEL NORTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PALMERAS DEL NORTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PARQUE DEL AMOR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PARQUE RESIDENCIAL EL BOSQUE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PASEO DE LOS ALMENDRO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PASO DEL COMERCIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PLAZAS VERDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;POPULAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PORTAL DE COMFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PORVENIR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;PRADOS DEL NORTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;QUINTAS DE SALOMIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;RESERVA DE LA FLORA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;RINCÓN &nbsp;DE LA FLORA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SALOMIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SAN LUIS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SAN LUISITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SAN VICENTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SANTA MÓNICA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SANTA MÓNICA ALTA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SANTA MÓNICA RESIDENCIAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SANTANDER &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SECTOR PUENTE DEL COMERCIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;SULTANA - BERLÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;TEJARES DE SALOMIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;VERSALLES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;VILLA DE SOL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;VILLAS DE VERACRUZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;VIPASA &nbsp; &nbsp; &nbsp;&nbsp;<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://promontorio-club.github.io/land-page/index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>OESTE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>AGUACATAL &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>ARBOLEDA &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Centenario.html\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>CENTENARIO &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>CERRO CRISTALES &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>CRISTALES &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>EL PEÑON &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>JUANAMBU &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>MIRAFLORES &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Normandia.html\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>NORMANDÍA &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>SAN ANTONIO &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>SANTA ISABEL &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>SANTA RITA &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"socicon socicon-reverbnation mbr-iconfont mbr-iconfont-btn\"></span>SANTA TERESITA &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALMENDROS DE NORMANDÍA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALTO AGUACATAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALTOS CRISTALES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALTOS DE SANTA RITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALTOS DE SANTA TERESITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ALTOS SANTA ISABEL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ANDALUCÍA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;BATACLAN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;BELÉN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;BELLAVISTA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;BOSQUE MUNICIPAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CAMINO REAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CAÑAVERAL DEL OESTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CAÑAVERALEJO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CASAS BLANCAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CLARO DE LUNA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;COLINAS DE MONTERREY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;CRISTO REY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;EL CORTIJO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;EL MAMEYAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;EL MORTIÑAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;EL NACIONAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;EL REALENGO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;ENTRERÍOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;GRANADA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;GUADALUPE ALTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;LA CASCADA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;LA CHANCA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;LA REFORMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;LIBERTADORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;LOMAS DEL OESTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;MEDITERRANEO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;MONTEBELLO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;NUEVA GRANADA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;PALERMO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;PICHINDÉ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;PUEBLO JOVEN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SAN FERNANDO ALTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SAN FERNANDO NUEVO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SAN FERNANDO VIEJO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SANTA BÁRBARA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SANTA ROSA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SANTA TERESITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SECTOR ALTOS DE NORMANDÍA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SEGUROS PATRIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SEMINARIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SENDEROS DE AGUACATAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;SILOÉ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;TEJARES CRISTALES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;TEJARES SAN FERNANDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;TEMPLETE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;TERRÓN COLORADO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;TIERRA BLANCA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;VENEZUELA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;VIA A LAS TRES CRUCES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;VILLA CATALINA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp;VISTA HERMOSA &nbsp; &nbsp; &nbsp;&nbsp;<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://promontorio-club.github.io/land-page/index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>CENTRO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ALAMEDA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ARANJUEZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BELALCAZAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BENJAMÍN HERRERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BRETAÑA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EL CALVARIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EL HOYO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; EL PILOTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GUAYAQUIL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JORGE ISAACS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JUNÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LA MERCED &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; LOS LIBERTADORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MANUEL Ma. B/VENTURA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OBRERO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAAVEDRA GALINDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN CAYETANO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN FRANCISCO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN JUAN BOSCO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN NICOLÁS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN PASCUAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SAN PEDRO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SANTA MÓNICA BELALCAZA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SANTA ROSA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SUCRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://promontorio-club.github.io/land-page/index.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>SUR</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALFAGUARA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALFEREZ REAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALHAMBRA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTO MELENDEZ POLVORINES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTO NÁPOLES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTO VERDE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALTOS MADRIGAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ANTEJARDÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BATALLÓN PICHINCHA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BELISARIO CAICEDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BELLA SUIZA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BOSQUES DEL LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DE MAYO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BUENOS AIRES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALDAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALICANTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CAMINO REAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CANEY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CANEY ESPECIAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CAÑAVERALES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CAPRI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CASCAJAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CASTILLA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CATAYA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CHAMPANAGT &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD 2000 &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD BOCHALEMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD CAMPESTRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD JARDÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDADELA COMFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDADELA PASOANCHO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CLUB CAMPESTRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CLUB CAÑASGORDAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COLINAS DEL SUR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COLISEO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COLSEGUROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COLSEGUROS ANDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CORREDOR CALI-JAMUNDÍ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CRISTOBAL COLÓN &nbsp; &nbsp; &nbsp; &nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CUARTO DE LEGUA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DEPARTAMENTAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL CAPITOLIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL CASTILLO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL CEDRO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL DORADO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL GRAN LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL GUABAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL INGENIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL JORDÁN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL LIDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL REFUGIO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL TEMPLETE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EUCARÍSTICO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FRANCISCO ELADIO RAMIREZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GRAN LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">GRATAMIRA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HACIENDA DE POTRERITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HACIENDA EL CASTILLO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">HORIZONTES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JORGE ZAWADSKY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA BUITRERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA HACIENDA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA LIBERTAD &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA PLAYA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA RIVERITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA SELVA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA VORÁGINE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS ACACIAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS GRANJAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS MERCEDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS PALMAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS QUINTAS DE DON SIMÓN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS VEGAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LILÍ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LLERAS CAMARGO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS CÁMBULOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS CERROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS CHORROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS FARALLONES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS PORTALES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS SAMANES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOURDES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MARIO CORREA RENGIFO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MAYAPAN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MELENDEZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MILITAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MIRAVALLE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MÓNACO LA SULTANA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MULTICENTRO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NÁPOLES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NAVARRO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NIZA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUEVA TEQUENDAMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUEVO REY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">OLÍMPICO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PAMPALINDA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PANAMERICANO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pance.html\">PANCE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PANCE ALTO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PEÑAS BLANCAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRADOS DEL LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRADOS DEL SUR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRIMERO DE MAYO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">QUINTAS DE PANCE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">QUINTAS DEL LILÍ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">REMANSO DE LA MORADA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RÍO LILÍ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN CRISTOBAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN FERNANDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN JOAQUÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN JUDAS TADEO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SANTA ANITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SANTA ELENA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SANTO DOMINGO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SECTOR ALTO DE LOS CHORROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SECTOR ALTO JORDÁN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TEQUENDAMA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TERRANOVA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VALLE DEL LILÍ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VERDE ALFAGUARA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VERDE HORIZONTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VERDE NATURA &nbsp; &nbsp; &nbsp;&nbsp;<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://promontorio-club.github.io/land-page/index.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 8px;\"></span>ORIENTE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AGUABLANCA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALFONSO BARBERENA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ALFONSO LOPEZ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ANDRÉS SANÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ANTONIO NARIÑO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARBOLEDA CAMPESTRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ASTURIAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ATANASIO GIRARDOT &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BASE AÉREA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BELLO HORIZONTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BOYACÁ &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DEL CAUCA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DEL GUABITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">BRISAS DEL LIMONAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALIBELLA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CALIMÍO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CHAPINERO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CHIMINANGOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD 2000 &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD DEL CAMPO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">CIUDAD MODELO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">COMUNEROS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">DOCE DE OCTUBRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EDUARDO SANTOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL ANGEL DEL HOGAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL JARDÍN &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL PARAÍSO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL PONDAJE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL PRADO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL RECUERDO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL RODEO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL TREBOL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">EL TRONCAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FENALCO KENNEDY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FEPICOL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">FLORESTA VIEJA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JOSE HOLGUIN GARCES &nbsp; &nbsp; &nbsp; &nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JOSE MARIA CORDOBA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JUANCHITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">JULIO RINCON &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA ALBORADA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA BASE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA ESPERANZA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA FLORESTA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA FORTALEZA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA GRAN COLOMBIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA INDEPENDENCIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA PLAYITA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA RIVIERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LA UNION &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS AMERICAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS CEIBAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LAS VERANERAS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LEON XIII &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS CONQUISTADORES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS PINOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">LOS SAUCES &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MARACAIBO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MARIANO RAMOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">MUNICIPAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUEVA BASE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">NUEVA FLORESTA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PARQUE DE LA CAÑA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PETECUY &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">POBLADO CAMPESTRE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRADOS DE ORIENTE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRIMAVERA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PRIMITIVO CRESPO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PUERTO MALLARINO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">PUERTO NUEVO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">RAFAEL URIBE URIBE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">REMANSOS DE COMFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">REPUBLICA DE ISRAEL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN BENITO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN CARLOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN MARCOS &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN MARINO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SAN PEDRO CALVER &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SANTA FE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SANTA MONICA POPULAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SIMON BOLIVAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SINDICAL &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">SOLARES DE COMFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">TORRES DE COMFANDI &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">UNION DE VIVIENDA POPULAR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">URIBE URIBE &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VILLA COLOMBIA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VILLA DEL PRADO &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VILLA DEL SUR &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VILLA GORGONA &nbsp; &nbsp; &nbsp;&nbsp;<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">&nbsp;VILLA NUEVA &nbsp; &nbsp; &nbsp;&nbsp;<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali24-2000x1500.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "CALI",
+          "text": "<p>VALLE DEL CAUCA</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#header3-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span>BUSCAR ZONAS&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#form1-5j\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>GUÍA PROFESIONAL&nbsp;</a>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "font-size": "15px"
             }
           },
           "_tags": [
@@ -145,12 +196,283 @@
           "_anchor": "header3-1",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "CALI <br>INMUEBLES EN VENTA",
+          "title": "ZONAS DESTACADAS",
           "meta": "Listado completo de todos los inmuebles"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x972.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "NORMANDÍA",
+          "text": "<p>OESTE DE CALI</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Normandia.html#header3-31\" data-toolbar=\"-mbrBtnMove\">BUSCAR INMUEBLES</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Normandia.html#testimonials2-3e\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>GUÍA PROFESIONAL&nbsp;</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x1317.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "CENTENARIO",
+          "text": "<p>OESTE DE CALI</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Centenario.html#header3-3l\" data-toolbar=\"-mbrBtnMove\">BUSCAR INMUEBLES</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Centenario.html#testimonials2-3w\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>GUÍA PROFESIONAL&nbsp;</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "PANCE",
+          "text": "<p>SUR DE CALI</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Pance.html#header3-4e\" data-toolbar=\"-mbrBtnMove\">BUSCAR INMUEBLES</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Pance.html#testimonials2-4p\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>GUÍA PROFESIONAL&nbsp;</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            "SMALL": {
+              "color": "#efefef",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "form1-5j",
+          "_params": {
+            "labelsColor": "#efefef",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "&nbsp;FORMULARIO DE CONTACTO<br>CALI - GUÍA PROFESIONAL&nbsp;",
+          "subtitle": "Ingrese sus datos para contratar una guía profesional en este sector de la ciudad",
+          "form": {
+            "action": "promontorio.club@icloud.com",
+            "alerts": {
+              "success": "Gracias por enviarnos su solicitud. Estaremos comunicándonos con usted lo más pronto posible. "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-4r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "50",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "<strong>Address</strong><br>Cra. 101 No. 17-50<br>Ciudad Jardín<br>Cali / Colombia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: promontorio.club@icloud.com<br>Móvil: +57 (318) 7346776<br>Whatsapp: +57 (301) 2893866",
+          "text3": "<strong>Links</strong><br><a href=\"https://promontorio-club.github.io/land-page/index.html\">Inicio</a><br><a href=\"https://promontorio-club.github.io/ventas-valle-del-cauca/\" class=\"text-primary\">Inmuebles en Valle del Cauca</a><br><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer1-4s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 - Promontorio Club Inmobiliario"
         }
       ]
     },
@@ -241,7 +563,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x972.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9724.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -284,7 +606,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x972.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9724.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -779,7 +1101,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13335.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -979,7 +1301,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x1317.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13176.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1022,7 +1344,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x1317.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13176.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1126,29 +1448,39 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
               },
               {
                 "tags": "Hasta $ 200 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
+              },
+              {
+                "tags": "Hasta $ 100 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": true
               },
               {
                 "tags": "Hasta $ 300 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               }
             ],
@@ -1212,16 +1544,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-img-1021-watermarked-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-img-1021-watermarked-2000x1500.jpg",
                 "caption": "<a href=\"Centenario-370-206-001.html\">Apartamento 170 m2 / $ 350 MM&nbsp;</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Hasta $ 500 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1229,10 +1561,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
+              },
+              {
+                "tags": "Hasta $ 400 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -1292,9 +1634,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1302,19 +1644,29 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
               },
               {
                 "tags": "Hasta $ 900 Millones",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": true
+              },
+              {
+                "tags": "Hasta $700 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               }
             ],
@@ -1375,9 +1727,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1385,9 +1737,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": false
               },
               {
@@ -1395,10 +1747,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
                 "active": true
+              },
+              {
+                "tags": "Hasta $2.000 Millones",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+                "caption": "No hay registros en este rango",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1517,7 +1879,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13335.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3254,7 +3616,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x1125.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11259.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3297,7 +3659,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11259.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3680,8 +4042,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11258.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3690,8 +4052,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11258.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3700,8 +4062,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11258.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3710,8 +4072,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4507.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11258.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
@@ -3832,7 +4194,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13335.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
