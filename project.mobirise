@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Normandía-370-204-001.html",
+    "currentPage": "Centenario-370-206-001.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2468,7 +2468,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "APARTAMENTO &nbsp;CENTENARIO<br>PRECIO DE VENTA: $ 350 MILLONES<br>CÓDIGO<br>370-206-001",
+          "title": "APARTAMENTO CENTENARIO<div>350 $</div><div>MILLONES</div><div>Código 370-204-001</div>",
           "text": "<p>Área: 170 m2 + 25 m2 Balcón</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Centenario-370-206-001.html#testimonials4-41\" data-toolbar=\"-mbrBtnMove\">RAZONES PARA COMPRARLO</a>"
         },
@@ -3680,8 +3680,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3690,8 +3690,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3700,8 +3700,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3710,8 +3710,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11251.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
