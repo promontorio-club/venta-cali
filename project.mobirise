@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Normandia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3680,8 +3680,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11259.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3690,8 +3690,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11259.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3700,8 +3700,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11259.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -3710,8 +3710,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11259.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112511.jpg",
                 "caption": "No hay registros en este rango",
                 "active": true
               }
