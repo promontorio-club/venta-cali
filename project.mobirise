@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Normandía-370-204-001.html",
+    "currentPage": "Pance-370-2296-001.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -632,7 +632,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97246.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9720.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97246.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9720.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1210,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133347.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1410,7 +1410,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131748.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13172.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1453,7 +1453,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131748.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13172.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1988,7 +1988,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133347.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3672,7 +3672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112551.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11255.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3715,7 +3715,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112551.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11255.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4108,8 +4108,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45049.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112550.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4118,8 +4118,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45049.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112550.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4128,8 +4128,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45049.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112550.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4250,7 +4250,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133347.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4460,7 +4460,7 @@
           },
           "testimonial": [
             {
-              "text": "Hermosa Casa Campestre en condominio. Pance, Av. La María. Zona urbana. Lote de 936 m2, construido 619 m2. 2 Niveles, 5 Habitaciones. 5 Parqueaderos. Excelente ubicación. Ideal para la casa de los encuentros familiares, para exranjeros, personas jubiladas, o buscadoras de seguridad con un toque de exclusividad y distinción. La casa está llena de espacios funcionales. Su ubicación la hace una propiedad ganadora. Avalúo comercial por $ 1.600 Millones",
+              "text": "Hermosa Casa Campestre en condominio. Pance, Av. La María. Zona urbana. Lote de 936 m2, construido 619 m2. 2 Niveles, 5 Habitaciones. 5 Parqueaderos. Excelente ubicación. Ideal para la casa de los encuentros familiares, para extranjeros, personas jubiladas, o buscadoras de seguridad con un toque de exclusividad y distinción. La casa está llena de espacios funcionales. Su ubicación la hace una propiedad ganadora. Avalúo comercial por $ 1.600 Millones",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-160x160.jpg",
