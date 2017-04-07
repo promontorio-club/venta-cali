@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "index.html",
+    "currentPage": "Nueva Tequendama 370-1921-001B.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -700,7 +700,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97225.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -743,7 +743,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97225.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1278,7 +1278,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133326.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1478,7 +1478,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131727.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1521,7 +1521,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131727.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2056,7 +2056,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133326.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2842,14 +2842,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Av. Cañasgordas, 125",
-              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
+              "address": "Nueva Tequendama, Cali",
+              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Avenida Cañasgordas, Sector La María, Pance</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio Nueva Tequendama, cerca a la Calle 9 con Cra. 42</span></li></ul>"
         },
         {
           "_tags": [
@@ -3584,14 +3584,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Av. Cañasgordas, 125",
-              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
+              "address": "Nueva Tequendama, Cali",
+              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Avenida Cañasgordas, Sector La María, Pance</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio Nueva Tequendama, cerca a la Calle 9 con Cra. 42</span></li></ul>"
         },
         {
           "_tags": [
@@ -3740,7 +3740,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112523.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112530.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3783,7 +3783,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112523.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112530.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4176,8 +4176,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112529.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4186,8 +4186,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112529.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4308,7 +4308,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133326.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4756,6 +4756,16 @@
             "paddingBottom": 0,
             "images": [
               {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333.jpg",
+                "caption": "VER IMAGEN",
+                "active": true
+              },
+              {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4850,16 +4860,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333.jpg",
-                "caption": "VER IMAGEN",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/14-img-0482-watermarked-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/14-img-0482-watermarked-2000x1333.jpg",
                 "caption": "VER IMAGEN",
@@ -4947,10 +4947,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19-img-0474-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/19-img-0474-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-img-2000x3331-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-img-2000x3331.jpg",
                 "caption": "VER IMAGEN",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -5181,14 +5181,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Av. Cañasgordas, 125",
-              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
+              "address": "Nueva Tequendama, Cali",
+              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Avenida Cañasgordas, Sector La María, Pance</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio Nueva Tequendama, cerca a la Calle 9 con Cra. 42</span></li></ul>"
         },
         {
           "_tags": [
@@ -5337,7 +5337,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84931.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5380,7 +5380,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84931.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5773,8 +5773,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112529.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5783,8 +5783,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112529.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5793,8 +5793,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112529.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -5915,7 +5915,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133326.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -6028,10 +6028,10 @@
         }
       ]
     },
-    "page8.html": {
+    "Nueva Tequendama 370-1921-001B.html": {
       "settings": {
-        "title": "Hermosa casa campestre en Pance, Sur de Cali - Av. La María. 936 m2 Lote",
-        "meta_descr": " Promontorio Club Inmobiliario ofrece en venta  casa en condominio campestre, Pance -Av. La María.",
+        "title": "Amplia casa fuera de condominio en Nueva Tequendama, 2 Niveles, 240 m2, 4 Habitaciones",
+        "meta_descr": "Inmuebles Promontorio Club Inmobiliario",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -6057,7 +6057,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6-img-0471-watermarked-2000x3000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-img-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6071,9 +6071,9 @@
             "showText": true,
             "showButton": true
           },
-          "title": "CASA EN CONDOMINIO CAMPESTRE<br>&nbsp;PANCE<div>1.600 $</div><div>MILLONES</div><div>Código 370-2296-001</div>",
-          "text": "<p>Área: 936 m2 / 619 m2 Construidos</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Pance-370-2296-001.html#testimonials4-5s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>COMENTARIOS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/uc?export=download&amp;id=0B_PGYJHICCxFZHZxZ1AyRFlCb0U\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a> "
+          "title": "CASA FUERA DE CONDOMINIO&nbsp;<br>&nbsp;NUEVA TEQUENDAMA<div>320 $</div><div>MILLONES</div><div>Código 370-1921-001B</div>",
+          "text": "<p>Área: 240 m2</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Nueva Tequendama 370-1921-001B.html#testimonials4-6o\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>COMENTARIOS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/uc?export=download&amp;id=0B_PGYJHICCxFWXJmNmk1UUg2ZHM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a> "
         },
         {
           "_tags": [
@@ -6091,7 +6091,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Pance-370-2296-001.html#header3-5t\" data-toolbar=\"-mbrBtnMove\">ESPECIFICACIONES</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Pance-370-2296-001.html#header3-5v\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Pance-370-2296-001.html#form1-5z\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Nueva Tequendama 370-1921-001B.html#header3-6p\" data-toolbar=\"-mbrBtnMove\">ESPECIFICACIONES</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Nueva Tequendama 370-1921-001B.html#header3-6r\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"Nueva Tequendama 370-1921-001B.html#form1-6w\" data-toolbar=\"-mbrBtnMove\">CONTACTAR</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -6125,7 +6125,7 @@
           },
           "testimonial": [
             {
-              "text": "Hermosa Casa Campestre en condominio. Pance, Av. La María. Zona urbana. Lote de 936 m2, construido 619 m2. 2 Niveles, 5 Habitaciones. 5 Parqueaderos. Excelente ubicación. Ideal para la casa de los encuentros familiares, para extranjeros, personas jubiladas, o buscadoras de seguridad con un toque de exclusividad y distinción. La casa está llena de espacios funcionales. Su ubicación la hace una propiedad ganadora. Avalúo comercial por $ 1.600 Millones",
+              "text": "Casa fuera de condominio de dos (2) niveles en barrio Nueva Tequendama, &nbsp;reconocido por su privilegiada ubicación casi céntrica, de ambiente fresco y una interesante zona de valorización residencial y comercial. La casa ha sido remodelada y con gradas descansadas para subir al segundo nivel. Contiene 4 Habitaciones y su formato amplio típico de la vecindad. Zona tranquila y segura. Los propietarios escuchan ofertas.",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-160x160.jpg",
@@ -6153,7 +6153,7 @@
             "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-img-0469-watermarked-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/22-img-2000x1199.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -6163,7 +6163,7 @@
             "showSubtitle": true
           },
           "title": "RAZONES PARA INVERTIR EN ESTA PROPIEDAD",
-          "subtitle": "Cali/Sur/Pance $ 1.600 MM/936 m2"
+          "subtitle": "Cali/Sur/Nueva Tequendama $ 320 MM/240 m2"
         },
         {
           "_styles": {
@@ -6189,7 +6189,7 @@
             "showMeta": true
           },
           "title": "ESPECIFICACIONES",
-          "meta": "Cali/Sur/Pance $ 1.600 MM/936 m2"
+          "meta": "Cali/Sur/Nueva Tequendama $ 320 MM/240 m2"
         },
         {
           "_inherit": "features3",
@@ -6245,7 +6245,7 @@
           },
           "title1": "Dimensiones y ubicación",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<span style=\"line-height: 1.5;\">Área 936 m2 /619 m2 construidos -&nbsp;</span><br><span style=\"line-height: 1.5;\">Dos (2) Niveles construidos -&nbsp;</span><span style=\"line-height: 1.5;\"><br></span>Ubicado cerca a la Avenida Cañasgordas y Avenida la María, Pance&nbsp;<br>&nbsp; &nbsp;Predio Urbano - <br>&nbsp;Casa en condominio completa remodelación<br>",
+          "caption1": "Área 240 m2 / lote de 7 x 21 metros de fondo / Dos (2) Niveles / casa independiente / fuera de condominio / sur / Nueva Tequendama&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -6261,7 +6261,7 @@
           },
           "title2": "La casa incluye",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Cuatro (4) Habitaciones -&nbsp;<br>Alcoba de servicio con baño&nbsp;-&nbsp;&nbsp;<br>&nbsp;Baño social-&nbsp;<span style=\"line-height: 1.5;\"><br></span>&nbsp; Cocina integral-&nbsp;<br>Sala comedor independientes, amplios espacios -&nbsp;<span style=\"line-height: 1.5;\"><br></span>Closet de Linos -&nbsp;<br>Dos (2) Depósitos -<br>&nbsp;Estudio -&nbsp;<br>Parqueadero para cinco (5) carros -&nbsp;<br>Piscina privada para adultos -&nbsp;<br>Zonas verdes -<br>Lindos Jardines -<br><br>",
+          "caption2": "Cuatro (4) habitaciones + alcoba de servicio con baño / Baño de alcobas / Baño social / Sala comedor / Cocina Integral / Zona de Oficios y Lavandería / Garaje interno para un (1) Vehículo / Ante jardín enrejado&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -6277,7 +6277,7 @@
           },
           "title3": "Descripción",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Todas las habitaciones tienen closet y baño privado -<br>La habitación principal tiene amplio cuarto de vestier -<br>La sala y el comedor son espacios amplios e independientes -<br>La casa ha sido refaccionada y remodelada completamente -<br>Cuenta con sistema estructural convencional en portificado de concreto armado en acero<br>Mampostería de carga en arcilla cosida confinada con vigas -<br>Puertas y ventanas enchapdas en Madera maciza -<br>Excelente estado de conservación, destaca por su buen gusto y sobriedad -<br>Pisos en placa de mármol de gran formato -<br>",
+          "caption3": "Todas las habitaciones tienen closets / Habitación principal tiene baño / cocina de amplios espacios / casa remodelada con piso en retal de mármol cristalizado / Fuente Ornamental al interior de la casa / Casa iluminada /&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -6293,7 +6293,7 @@
           },
           "title4": "El condominio incluye",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "&nbsp;Portería vigilada 24 horas- <br>Portón eléctrico- <br> Cámaras de seguridad- <br>&nbsp;Ascensor hasta el sótano- <br>&nbsp; Condominio campestre con jardines y zonas sociales- <br>Condominio de 25 casas -<br>Planta Eléctrica -&nbsp;<br>Cerca de universidades, parques, centros comerciales, hospitales y sitios de interés turístico",
+          "caption4": "Fuera de Condominio / zona cerca a hospitales, restaurantes, centros comerciales, parques / Estrato 5 / Cuadras con vigilancia comunitaria&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -6367,8 +6367,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-img-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-img-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-img-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-img-2000x1125.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6377,8 +6377,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-img-0469-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-img-0469-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-img-2000x3332-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-img-2000x3332.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6387,8 +6387,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-img-0471-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-img-0471-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6397,8 +6397,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-img-0470-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-img-0470-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-img-2000x3331-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-img-2000x3331.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6407,8 +6407,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-img-0473-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-img-0473-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-img-2000x3332-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-img-2000x3332.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6417,8 +6417,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-img-0472-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-img-0472-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-img-2000x3334-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-img-2000x3334.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6427,8 +6427,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-img-0476-watermarked-2000x1370-800x548.jpg",
-                "image": "@PROJECT_PATH@/assets/images/7-img-0476-watermarked-2000x1370.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-img-2000x3331-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-img-2000x3331.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6437,8 +6437,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-img-0480-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-img-0480-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6447,8 +6447,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/9-img-0485-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/9-img-0485-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-img-2000x3331-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10-img-2000x3331.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6457,20 +6457,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-img-0478-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-img-2000x3333.jpg",
+                "caption": "VER IMAGEN",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-img-2000x3332-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-img-2000x3332.jpg",
                 "caption": "VER IMAGEN",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14-img-0482-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14-img-0482-watermarked-2000x1333.jpg",
-                "caption": "VER IMAGEN",
-                "active": false
               }
             ],
             "spacing": "1",
@@ -6504,8 +6504,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11-img-0477-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/11-img-0477-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6514,8 +6514,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15-img-0483-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15-img-0483-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6524,8 +6524,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/16-img-0484-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/16-img-0484-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6534,8 +6534,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17-img-0486-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17-img-0486-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
                 "active": false
               },
@@ -6544,20 +6544,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/18-img-0475-watermarked-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/18-img-0475-watermarked-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17-img-2000x3333-800x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17-img-2000x3333.jpg",
                 "caption": "VER IMAGEN",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19-img-0474-watermarked-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/19-img-0474-watermarked-2000x3000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18-img-2000x3331-800x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-img-2000x3331.jpg",
                 "caption": "VER IMAGEN",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -6649,7 +6649,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-img-1021-watermarked-800x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-img-800x450.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -6696,7 +6696,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Pance-370-2296-001.html#form1-5z\" data-toolbar=\"-mbrBtnMove\">CONTACTAR AGENTE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Nueva Tequendama 370-1921-001B.html#form1-6w\" data-toolbar=\"-mbrBtnMove\">CONTACTAR AGENTE</a>",
           "text": "Ofrece",
           "title": "PROMONTORIO CLUB INMOBILIARIO"
         },
@@ -6734,7 +6734,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "&nbsp;FORMULARIO DE CONTACTO<br>Pance&nbsp;<br>Cod 370-2296-001",
+          "title": "&nbsp;FORMULARIO DE CONTACTO<br>Nueva Tequendama&nbsp;<br>Cod 370-1921-001B",
           "subtitle": "Por favor ingrese sus datos de contacto, uno de nuestros agentes lo atenderá",
           "form": {
             "action": "promontorio.club@icloud.com",
@@ -6788,14 +6788,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Av. Cañasgordas, 125",
-              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
+              "address": "Nueva Tequendama, Cali",
+              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Avenida Cañasgordas, Sector La María, Pance</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio Nueva Tequendama, cerca a la Calle 9 con Cra. 42</span></li></ul>"
         },
         {
           "_tags": [
