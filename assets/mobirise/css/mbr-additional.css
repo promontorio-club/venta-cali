@@ -1564,3 +1564,178 @@ h6,
 #social-buttons1-62 .mbr-section-title {
   font-size: 32px;
 }
+
+
+#menu-64 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-64 .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#menu-64 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-64 .close-icon::before,
+#menu-64 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-64 .link,
+#menu-64 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-64 .link {
+  font-size: 0.7rem;
+}
+#menu-64 .dropdown-item,
+#menu-64 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu-64 .link:hover,
+#menu-64 .dropdown-item:hover,
+#menu-64 .link:focus,
+#menu-64 .dropdown-item:focus {
+  color: #c0a575;
+}
+#menu-64 .link[aria-expanded="true"],
+#menu-64 .dropdown-menu {
+  background: #000000;
+}
+#menu-64 .nav-dropdown-sm .link:focus,
+#menu-64 .nav-dropdown-sm .link:hover,
+#menu-64 .nav-dropdown-sm .dropdown-item:focus,
+#menu-64 .nav-dropdown-sm .dropdown-item:hover {
+  background: #0b0b0b!important;
+}
+#menu-64 .navbar,
+#menu-64 .nav-dropdown-sm,
+#menu-64 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-64 .nav-dropdown-sm .dropdown-menu {
+  background: #131313;
+}
+#menu-64 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-64 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-64 .bg-color.transparent.opened .link:hover,
+#menu-64 .bg-color.transparent.opened .link:focus {
+  color: #c0a575;
+}
+#menu-64 .link[aria-expanded="true"],
+#menu-64 .dropdown-item[aria-expanded="true"] {
+  color: #c0a575!important;
+}
+#msg-box3-65 .mbr-section-title,
+#msg-box3-65 p {
+  color: #000;
+}
+#msg-box3-65 .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-65 .lead P {
+  color: #efefef;
+}
+#msg-box3-65 .btn {
+  font-size: 11px;
+}
+#header3-66 .mbr-section-title,
+#header3-66 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-66 H3 {
+  font-size: 19px;
+}
+#buttons1-67 .btn {
+  font-size: 11px;
+}
+#header3-68 .mbr-section-title,
+#header3-68 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-68 H3 {
+  font-size: 17px;
+}
+#gallery1-69 .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-69 LI {
+  font-size: 14px;
+}
+#header3-6a .mbr-section-title,
+#header3-6a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6a H3 {
+  font-size: 17px;
+}
+#gallery1-6b .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-6b LI {
+  font-size: 14px;
+}
+#header3-6c .mbr-section-title,
+#header3-6c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6c H3 {
+  font-size: 17px;
+}
+#gallery1-6d .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-6d LI {
+  font-size: 14px;
+}
+#header3-6e .mbr-section-title,
+#header3-6e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6e H3 {
+  font-size: 17px;
+}
+#gallery1-6f .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-6f LI {
+  font-size: 14px;
+}
+#buttons1-6l .btn {
+  font-size: 11px;
+}
+#testimonials2-6h .mbr-section-title {
+  font-size: 30px;
+}
+#testimonials2-6h .card-block P {
+  font-size: 15px;
+}
+#testimonials2-6h .card-block {
+  font-size: 16px;
+}
+#testimonials2-6h .mbr-section-subtitle {
+  font-size: 16px;
+}
+#form1-6i .form-control-label {
+  color: #efefef;
+}
+#form1-6i .mbr-section-title {
+  color: #ffffff;
+  font-size: 24px;
+}
+#form1-6i SMALL {
+  color: #efefef;
+  font-size: 15px;
+}
+#contacts1-6j P {
+  font-size: 13px;
+}
+#footer1-6k P {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
