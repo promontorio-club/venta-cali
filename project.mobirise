@@ -632,7 +632,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97242.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -675,7 +675,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97242.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1210,7 +1210,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133343.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1410,7 +1410,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131744.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1453,7 +1453,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131744.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1988,7 +1988,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133343.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3672,7 +3672,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112523.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112547.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3715,7 +3715,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112523.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112547.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4108,8 +4108,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112546.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4118,8 +4118,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112546.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4128,8 +4128,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45021.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112522.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112546.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4250,7 +4250,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133343.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4408,7 +4408,7 @@
           },
           "title": "CASA EN CONDOMINIO CAMPESTRE<br>&nbsp;PANCE<div>1.600 $</div><div>MILLONES</div><div>Código 370-2296-001</div>",
           "text": "<p>Área: 936 m2 / 619 m2 Construidos</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Pance-370-2296-001.html#testimonials4-5s\" data-toolbar=\"-mbrBtnMove\">RAZONES PARA COMPRARLO</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://fileshare.link/08f682aa2d345f44/Casa_-_Pance_-_Código_370-2296-001.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>DESCARGAR PDF</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Pance-370-2296-001.html#testimonials4-5s\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>COMENTARIOS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://docs.google.com/uc?export=download&amp;id=0B_PGYJHICCxFZHZxZ1AyRFlCb0U\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a> "
         },
         {
           "_tags": [
