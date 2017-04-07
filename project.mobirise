@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Las vegas - Mayapan.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 273,
+    "uniqCompNum": 275,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -476,6 +476,74 @@
           "meta": "-"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".lead P": {
+              "color": "#efefef"
+            },
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x649.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "LAS VEGAS - MAYAPAN",
+          "text": "<p>SUR DE CALI</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Las vegas - Mayapan.html#header3-74\" data-toolbar=\"-mbrBtnMove\">BUSCAR INMUEBLES</a>  <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Las vegas - Mayapan.html#form1-7g\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>GUÍA PROFESIONAL&nbsp;</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-size": "8px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": "-"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -700,7 +768,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97260.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97267.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -743,7 +811,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97260.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97267.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1278,7 +1346,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133368.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1478,7 +1546,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131762.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131769.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1521,7 +1589,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131762.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131769.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2056,7 +2124,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133368.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3740,7 +3808,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112565.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112572.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3783,7 +3851,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112565.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112572.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4166,8 +4234,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4176,8 +4244,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4196,8 +4264,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4207,8 +4275,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4329,7 +4397,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133368.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5358,7 +5426,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84966.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84973.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5401,7 +5469,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84966.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84973.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5794,8 +5862,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5804,8 +5872,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5814,8 +5882,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45063.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112564.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45070.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112571.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -5936,7 +6004,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133368.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -6965,7 +7033,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112565.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112572.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7008,7 +7076,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x649.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64974.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7543,7 +7611,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133361.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133368.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,

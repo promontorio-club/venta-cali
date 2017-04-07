@@ -582,6 +582,27 @@ h6,
 #header3-71 SMALL {
   font-size: 8px;
 }
+#msg-box3-7l .mbr-section-title,
+#msg-box3-7l p {
+  color: #000;
+}
+#msg-box3-7l .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-7l .lead P {
+  color: #efefef;
+}
+#msg-box3-7l .btn {
+  font-size: 11px;
+}
+#header3-7m .mbr-section-title,
+#header3-7m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7m SMALL {
+  font-size: 8px;
+}
 #form1-5j .form-control-label {
   color: #efefef;
 }
@@ -1914,4 +1935,179 @@ h6,
 }
 #social-buttons1-6z .mbr-section-title {
   font-size: 32px;
+}
+
+
+#menu-72 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-72 .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#menu-72 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-72 .close-icon::before,
+#menu-72 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-72 .link,
+#menu-72 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-72 .link {
+  font-size: 0.7rem;
+}
+#menu-72 .dropdown-item,
+#menu-72 .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu-72 .link:hover,
+#menu-72 .dropdown-item:hover,
+#menu-72 .link:focus,
+#menu-72 .dropdown-item:focus {
+  color: #c0a575;
+}
+#menu-72 .link[aria-expanded="true"],
+#menu-72 .dropdown-menu {
+  background: #000000;
+}
+#menu-72 .nav-dropdown-sm .link:focus,
+#menu-72 .nav-dropdown-sm .link:hover,
+#menu-72 .nav-dropdown-sm .dropdown-item:focus,
+#menu-72 .nav-dropdown-sm .dropdown-item:hover {
+  background: #0b0b0b!important;
+}
+#menu-72 .navbar,
+#menu-72 .nav-dropdown-sm,
+#menu-72 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-72 .nav-dropdown-sm .dropdown-menu {
+  background: #131313;
+}
+#menu-72 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-72 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-72 .bg-color.transparent.opened .link:hover,
+#menu-72 .bg-color.transparent.opened .link:focus {
+  color: #c0a575;
+}
+#menu-72 .link[aria-expanded="true"],
+#menu-72 .dropdown-item[aria-expanded="true"] {
+  color: #c0a575!important;
+}
+#msg-box3-73 .mbr-section-title,
+#msg-box3-73 p {
+  color: #000;
+}
+#msg-box3-73 .mbr-section-title {
+  color: #ffffff;
+  font-size: 32px;
+}
+#msg-box3-73 .lead P {
+  color: #efefef;
+}
+#msg-box3-73 .btn {
+  font-size: 11px;
+}
+#header3-74 .mbr-section-title,
+#header3-74 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-74 H3 {
+  font-size: 19px;
+}
+#buttons1-75 .btn {
+  font-size: 11px;
+}
+#header3-76 .mbr-section-title,
+#header3-76 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-76 H3 {
+  font-size: 17px;
+}
+#gallery1-77 .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-77 LI {
+  font-size: 14px;
+}
+#header3-78 .mbr-section-title,
+#header3-78 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-78 H3 {
+  font-size: 17px;
+}
+#gallery1-79 .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-79 LI {
+  font-size: 14px;
+}
+#header3-7a .mbr-section-title,
+#header3-7a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7a H3 {
+  font-size: 17px;
+}
+#gallery1-7b .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-7b LI {
+  font-size: 14px;
+}
+#header3-7c .mbr-section-title,
+#header3-7c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7c H3 {
+  font-size: 17px;
+}
+#gallery1-7k .mbr-gallery-item > div > span {
+  font-size: 12px;
+}
+#gallery1-7k LI {
+  font-size: 14px;
+}
+#buttons1-7j .btn {
+  font-size: 11px;
+}
+#testimonials2-7f .mbr-section-title {
+  font-size: 30px;
+}
+#testimonials2-7f .card-block P {
+  font-size: 15px;
+}
+#testimonials2-7f .card-block {
+  font-size: 16px;
+}
+#testimonials2-7f .mbr-section-subtitle {
+  font-size: 16px;
+}
+#form1-7g .form-control-label {
+  color: #efefef;
+}
+#form1-7g .mbr-section-title {
+  color: #ffffff;
+  font-size: 24px;
+}
+#form1-7g SMALL {
+  color: #efefef;
+  font-size: 15px;
+}
+#contacts1-7h P {
+  font-size: 13px;
+}
+#footer1-7i P {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
 }
