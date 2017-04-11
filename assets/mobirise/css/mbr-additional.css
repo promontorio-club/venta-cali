@@ -2626,14 +2626,217 @@ h6,
   color: #efefef;
   font-size: 15px;
 }
-#contacts2-8z UL {
-  color: #ffffff;
-}
 #footer1-90 P {
   text-align: right;
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
 }
+#header3-97 .mbr-section-title,
+#header3-97 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-97 SMALL {
+  font-size: 8px;
+}
+#header3-99 .mbr-section-title,
+#header3-99 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-99 H3 {
+  font-size: 25px;
+}
+#header3-99 SMALL {
+  font-size: 14px;
+}
+#header3-98 .mbr-section-title,
+#header3-98 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-98 SMALL {
+  font-size: 8px;
+}
+#contacts1-82 P {
+  font-size: 13px;
+}
 #social-buttons1-91 .mbr-section-title {
+  font-size: 32px;
+}
+
+
+
+#msg-box8-9a .mbr-section-title,
+#msg-box8-9a p {
+  color: #fff;
+}
+#msg-box8-9a .mbr-section-title {
+  font-size: 25px;
+}
+#buttons1-9b .btn {
+  font-size: 11px;
+}
+#testimonials4-9c .mbr-section-title {
+  font-size: 23px;
+  color: #ffffff;
+}
+#testimonials4-9c .card-block P {
+  font-size: 15px;
+}
+#testimonials4-9c .card-footer > div {
+  color: #ffffff;
+}
+#testimonials4-9c .mbr-section-subtitle {
+  color: #cccccc;
+  font-size: 15px;
+}
+#testimonials4-9c .card-footer > small {
+  color: #efefef;
+}
+#testimonials4-9c .card-block {
+  font-size: 15px;
+  font-family: 'Lora', serif;
+}
+#header3-9d .mbr-section-title,
+#header3-9d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9d H3 {
+  font-size: 25px;
+}
+#header3-9d SMALL {
+  font-size: 14px;
+}
+#features6-9e P {
+  color: #414141;
+  font-size: 14px;
+  text-align: center;
+}
+#features6-9e H4 {
+  color: #000000;
+  font-size: 18px;
+}
+#header3-9f .mbr-section-title,
+#header3-9f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9f H3 {
+  font-size: 23px;
+  text-align: right;
+}
+#gallery1-9g .mbr-gallery-item > div > span {
+  font-size: 9px;
+}
+#menu-9i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-9i .navbar-caption {
+  color: #ffffff;
+  font-size: 14px;
+}
+#menu-9i .navbar-toggler {
+  color: #ffffff;
+}
+#menu-9i .close-icon::before,
+#menu-9i .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-9i .link,
+#menu-9i .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#menu-9i .link {
+  font-size: 0.7rem;
+}
+#menu-9i .dropdown-item,
+#menu-9i .nav-dropdown-sm .link {
+  font-size: 0.758rem;
+}
+#menu-9i .link:hover,
+#menu-9i .dropdown-item:hover,
+#menu-9i .link:focus,
+#menu-9i .dropdown-item:focus {
+  color: #c0a575;
+}
+#menu-9i .link[aria-expanded="true"],
+#menu-9i .dropdown-menu {
+  background: #000000;
+}
+#menu-9i .nav-dropdown-sm .link:focus,
+#menu-9i .nav-dropdown-sm .link:hover,
+#menu-9i .nav-dropdown-sm .dropdown-item:focus,
+#menu-9i .nav-dropdown-sm .dropdown-item:hover {
+  background: #0b0b0b!important;
+}
+#menu-9i .navbar,
+#menu-9i .nav-dropdown-sm,
+#menu-9i .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-9i .nav-dropdown-sm .dropdown-menu {
+  background: #131313;
+}
+#menu-9i .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-9i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-9i .bg-color.transparent.opened .link:hover,
+#menu-9i .bg-color.transparent.opened .link:focus {
+  color: #c0a575;
+}
+#menu-9i .link[aria-expanded="true"],
+#menu-9i .dropdown-item[aria-expanded="true"] {
+  color: #c0a575!important;
+}
+#gallery1-9s .mbr-gallery-item > div > span {
+  font-size: 9px;
+}
+#msg-box1-9j H3 {
+  font-size: 32px;
+}
+#form1-9k .form-control-label {
+  color: #efefef;
+}
+#form1-9k .mbr-section-title {
+  color: #ffffff;
+  font-size: 23px;
+}
+#form1-9k SMALL {
+  color: #efefef;
+  font-size: 15px;
+}
+#footer1-9l P {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#header3-9m .mbr-section-title,
+#header3-9m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9m SMALL {
+  font-size: 8px;
+}
+#header3-9n .mbr-section-title,
+#header3-9n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9n H3 {
+  font-size: 25px;
+}
+#header3-9n SMALL {
+  font-size: 14px;
+}
+#header3-9p .mbr-section-title,
+#header3-9p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9p SMALL {
+  font-size: 8px;
+}
+#contacts1-9q P {
+  font-size: 13px;
+}
+#social-buttons1-9r .mbr-section-title {
   font-size: 32px;
 }
