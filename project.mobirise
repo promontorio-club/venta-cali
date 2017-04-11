@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 326,
+    "uniqCompNum": 330,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -693,7 +693,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -836,7 +836,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9729.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -879,7 +879,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x9729.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1414,7 +1414,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1471,7 +1471,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1614,7 +1614,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13172.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131711.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1657,7 +1657,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x13172.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131711.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2192,7 +2192,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2249,7 +2249,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2959,33 +2959,44 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
+          "_name": "contacts1",
           "_styles": {
-            "UL": {
-              "color": "#ffffff"
+            "P": {
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts2-2n",
+          "_anchor": "contacts1-82",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1d1d",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Nueva Tequendama, Cali",
-              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "50",
+              "active": true,
+              "newWindow": false
             }
           },
-          "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio, sitios reconocidos cerca al inmueble</span></li></ul>"
+          "text1": "<strong>Address</strong><br>Cra. 101 No. 17<br>Ciudad Jardín<br>Cali / Colombia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: promontorio.club@icloud.com<br>Móvil: +57 (318) 7346776<br>Whatsapp: +57 (301) 2893866",
+          "text3": "<strong>Links</strong><br><a href=\"https://promontorio-club.github.io/land-page/index.html\">Inicio</a><br><a href=\"https://promontorio-club.github.io/ventas-valle-del-cauca/\" class=\"text-primary\">Inmuebles en Valle del Cauca</a><br><br>"
         },
         {
           "_tags": [
@@ -3701,33 +3712,44 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
+          "_name": "contacts1",
           "_styles": {
-            "UL": {
-              "color": "#ffffff"
+            "P": {
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts2-48",
+          "_anchor": "contacts1-82",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1d1d",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Nueva Tequendama, Cali",
-              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "50",
+              "active": true,
+              "newWindow": false
             }
           },
-          "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio, sitios reconocidos cerca al inmueble</span></li></ul>"
+          "text1": "<strong>Address</strong><br>Cra. 101 No. 17<br>Ciudad Jardín<br>Cali / Colombia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: promontorio.club@icloud.com<br>Móvil: +57 (318) 7346776<br>Whatsapp: +57 (301) 2893866",
+          "text3": "<strong>Links</strong><br><a href=\"https://promontorio-club.github.io/land-page/index.html\">Inicio</a><br><a href=\"https://promontorio-club.github.io/ventas-valle-del-cauca/\" class=\"text-primary\">Inmuebles en Valle del Cauca</a><br><br>"
         },
         {
           "_tags": [
@@ -3876,7 +3898,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11255.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112514.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3919,7 +3941,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11255.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112514.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4302,8 +4324,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4312,8 +4334,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4332,8 +4354,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -4343,8 +4365,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -4465,7 +4487,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4522,7 +4544,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -5338,14 +5360,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Nueva Tequendama, Cali",
-              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
+              "address": "Avenida Cañasgordas, Carrera 125",
+              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio, sitios reconocidos cerca al inmueble</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Pance, Av. La María. Zona Urbana</span></li></ul>"
         },
         {
           "_tags": [
@@ -5494,7 +5516,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x8496.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84915.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5537,7 +5559,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x8496.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84915.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -5930,8 +5952,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5940,8 +5962,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -5950,8 +5972,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -6072,7 +6094,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -6129,7 +6151,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -6969,33 +6991,44 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
+          "_name": "contacts1",
           "_styles": {
-            "UL": {
-              "color": "#ffffff"
+            "P": {
+              "font-size": "13px"
             }
           },
-          "_anchor": "contacts2-6x",
+          "_anchor": "contacts1-82",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1d1d1d",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "Nueva Tequendama, Cali",
-              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "50",
+              "active": true,
+              "newWindow": false
             }
           },
-          "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio, sitios reconocidos cerca al inmueble</span></li></ul>"
+          "text1": "<strong>Address</strong><br>Cra. 101 No. 17<br>Ciudad Jardín<br>Cali / Colombia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: promontorio.club@icloud.com<br>Móvil: +57 (318) 7346776<br>Whatsapp: +57 (301) 2893866",
+          "text3": "<strong>Links</strong><br><a href=\"https://promontorio-club.github.io/land-page/index.html\">Inicio</a><br><a href=\"https://promontorio-club.github.io/ventas-valle-del-cauca/\" class=\"text-primary\">Inmuebles en Valle del Cauca</a><br><br>"
         },
         {
           "_tags": [
@@ -7144,7 +7177,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x11255.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112514.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7187,7 +7220,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x6497.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64916.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7722,7 +7755,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7779,7 +7812,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -7922,7 +7955,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x8496.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84915.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7965,7 +7998,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x6088.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x60817.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8358,8 +8391,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8368,8 +8401,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8378,8 +8411,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -8500,7 +8533,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -8557,7 +8590,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -8700,7 +8733,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x8496.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84915.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -8743,7 +8776,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x8496.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84915.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -9136,8 +9169,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9146,8 +9179,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9156,8 +9189,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x4503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x11254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112513.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -9278,7 +9311,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x13331.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133310.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -9335,7 +9368,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -10151,14 +10184,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Nueva Tequendama, Cali",
-              "placeId": "ChIJw6qpu6imMI4RfedwS64cJqE",
+              "address": "Avenida Cañasgordas, Carrera 125",
+              "placeId": "ChIJawEcT--hMI4Rf6nfli8tBgA",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Dirección</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Cra. 101 No. 17<br>Ciudad Jardín<br>Cali - Colombia</span><br><br>\n<strong>Contacto</strong><br>Andrés Jiménez<br>Consultor Inversiones Inmobiliarias<br>Email: promontorio.club@icloud.com<br>\nMóvil : + (57) 318 734 67 76<br>\nWhatsapp: + (57) 301 289 38 66",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Barrio, sitios reconocidos cerca al inmueble</span></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html\" class=\"text-white\">Ver inmuebles en la zona</a></li><li><a href=\"https://promontorio-club.github.io/land-page/index.html\" class=\"text-white\">Inicio</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Ubicación del Inmueble<br>Pance, Av. La María. Zona Urbana</span></li></ul>"
         },
         {
           "_tags": [
