@@ -1134,6 +1134,23 @@ h6,
   color: #efefef;
   font-size: 15px;
 }
+#header3-9u .mbr-section-title,
+#header3-9u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9u SMALL {
+  font-size: 8px;
+}
+#header3-9v .mbr-section-title,
+#header3-9v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-9v H3 {
+  font-size: 25px;
+}
+#header3-9v SMALL {
+  font-size: 14px;
+}
 #contacts1-82 P {
   font-size: 13px;
 }
