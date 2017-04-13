@@ -836,7 +836,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97227.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -879,7 +879,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97227.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1414,7 +1414,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1614,7 +1614,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131729.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1657,7 +1657,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131729.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2192,7 +2192,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -3965,7 +3965,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112530.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4008,7 +4008,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112530.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4543,7 +4543,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -5637,7 +5637,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84933.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5680,7 +5680,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84933.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6073,8 +6073,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -6083,8 +6083,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -6093,8 +6093,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -6215,7 +6215,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7298,7 +7298,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112530.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7341,7 +7341,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64925.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64934.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7876,7 +7876,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -8076,7 +8076,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84933.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -8119,7 +8119,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x60826.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x60835.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8512,8 +8512,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8522,8 +8522,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8532,8 +8532,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -8654,7 +8654,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -8854,7 +8854,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84933.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -8897,7 +8897,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84933.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -9290,8 +9290,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9300,8 +9300,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9310,8 +9310,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112532.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -9432,7 +9432,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133328.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
