@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ventas-cali",
-    "currentPage": "Pance.html",
+    "currentPage": "Pance-370-2296-002.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 378,
+    "uniqCompNum": 379,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -756,7 +756,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -836,7 +836,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97236.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -879,7 +879,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97236.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gato-tejada-1-2000x97218.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1414,7 +1414,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -1614,7 +1614,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131738.jpg",
+              "src": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1657,7 +1657,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131738.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotografia-cali38-2000x131720.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2192,7 +2192,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -2312,7 +2312,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3937,7 +3937,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a575!important"
             }
           },
           "_tags": [
@@ -3965,7 +3965,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112539.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4008,7 +4008,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112539.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4394,7 +4394,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-img-0469-watermarked-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-img-0469-watermarked-2000x1333.jpg",
                 "caption": "<a href=\"Pance-370-2296-001.html\">Casa en Pance $ 1.600 MM / 936 m2</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Hasta $2.000 Millones",
@@ -4411,10 +4411,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x450-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-1.jpg",
-                "caption": "No hay registros en este rango",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/image8-2000x1124-800x449.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image8-2000x1124.jpg",
+                "caption": "<a href=\"Pance-370-2296-002.html\">Casa en Pance $ 2.500 MM / 3.000 m2</a>",
+                "active": true
               },
               {
                 "tags": "Más de $ 3.000 Millones",
@@ -4543,7 +4543,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -4663,7 +4663,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -5637,7 +5637,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84942.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -5680,7 +5680,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84942.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -6073,8 +6073,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -6083,8 +6083,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -6093,8 +6093,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -6215,7 +6215,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -7298,7 +7298,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112539.jpg",
+              "src": "@PROJECT_PATH@/assets/images/forest-road-wallpaper-hd-2000x112521.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -7341,7 +7341,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64943.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/las-vegas-mayapan-2000x64925.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -7876,7 +7876,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -8076,7 +8076,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84942.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -8119,7 +8119,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x60844.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/el-ingenio-2000x60826.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -8512,8 +8512,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8522,8 +8522,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -8532,8 +8532,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -8654,7 +8654,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -8854,7 +8854,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84942.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -8897,7 +8897,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84942.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nueva-tequendama-cali-2000x84924.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -9290,8 +9290,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9300,8 +9300,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               },
@@ -9310,8 +9310,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45040.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125-800x45022.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x112523.jpg",
                 "caption": "No hay registros en este rango",
                 "active": false
               }
@@ -9432,7 +9432,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x133319.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -11519,7 +11519,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -11558,7 +11558,7 @@
             "showText": true,
             "showButton": true
           },
-          "title": "CASA EN CONDOMINIO<br>&nbsp; PANCE / AV. LA MARÍA&nbsp;<br><span style=\"line-height: 1.1;\">1.600 $</span><div>MILLONES</div><div>Código 370-2296-002</div>",
+          "title": "CASA EN CONDOMINIO<br>&nbsp; PANCE / AV. CAÑASGORDAS&nbsp;<br><span style=\"line-height: 1.1;\">2.500 $</span><div>MILLONES</div><div>Código 370-2296-002</div>",
           "text": "Área 3.000 m2 Lote / 800 m2 construidos",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Pance-370-2296-002.html#testimonials4-9y\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>COMENTARIOS&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/uc?export=download&amp;id=0B_PGYJHICCxFWXo5dVl3aEZobk0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-download mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD</a> "
         },
@@ -11640,7 +11640,7 @@
             "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/22-img-2000x1199.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/image4-2000x1125.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -11695,13 +11695,13 @@
               "font-size": "18px"
             }
           },
-          "_anchor": "features6-a0",
+          "_anchor": "features6-ai",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-img-1027-watermarked-2000x1500.jpg",
+            "bgImage": "file:///Users/AndresBarakiel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/1-img_1027_watermarked-2000x1500_1.jpg",
             "bgColor": "#f4f4f4",
             "bgColorRadio": true,
             "bgVideo": {
@@ -11732,7 +11732,7 @@
           },
           "title1": "Dimensiones y ubicación",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Mencionar el ára, si tiene alguna información sobre el lote, mencionar si es dúplex, o si es casa de varios niveles, mencionar el barrio y algún sitio reconocido cercano",
+          "caption1": "Casa de dos niveles en condominio campestre ubicado en Pance Av. Cañasgordas / Área de lote 3.000 m2 / &nbsp;Área de 800 m2 construidos",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -11748,7 +11748,7 @@
           },
           "title2": "La casa incluye",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Mencionar solamente la cantidad de espacios que tiene la casa, aquellos lugares funcionales destinados para una actividad típica específica, como habitaciones, baños, cocina, sala comedor, alcoba de servicio, estudio, garaje, antejardín, etc. sin mencionar su descripción o mejores caractarísticas&nbsp;",
+          "caption2": "La casa cuenta con cinco (5) habitaciones + dos (2) alcobas de servicio / Cada habitación tiene baño / sala comedor independiente / cuarto de cocina tipo americana / Espacio para oficina / espacio para biblioteca / Sala de TV / bodega subterranea para planta eléctrica / Aljibe / cancha de futbol / piscina / 3 tanques de reserva de agua / Planta de tratamiento de agua / Parqueadero para cuatro (4) vehículos cubiertos y espacio para otros cuatro (4) descubiertos / Estadero con dos (2 ) baños&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -11764,7 +11764,7 @@
           },
           "title3": "Descripción",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Mencionar las características y atributos de cada uno de los espacios mencionados anteriormente, aquí se vale colocar el tipo de encimera de la cocina, si tiene campana extractora, &nbsp;si hay remodelación, qué pisos y fachada, si las habitaciones tienes closet o cuarto de vestier, adornos, &nbsp;fuentes ornamentales, etc.&nbsp;",
+          "caption3": "La casa cuenta con dos niveles, en el primer nivel se encuentran los garajes cubiertos, la entrada y zonas sociales privadas / cada una de las cinco (5 ) habitaciones tiene closet y baño / tres (3) de las habitaciones tienen cuarto de vestier, y balcón / Dos (2) aclobas de servicio con baño privado respectivamente / La cocina integral se vende equipada con un congelador y nevera de exclusiva marca Subzero, se entrega con cava de vinos, torre de horno y calienta platos. La encimera de la cocina es en granito pulido perlado, tiene isala para cocinar y es de excelentes acabados / Grifería marca Kholer / Dos (2) aires acondicionados centrales / Cada uno de los 3 tanques de reserva de agua es de &nbsp;mil (1.000) litros / Contiene una bodega subterranea para planta eléctrica con sus respectivos extractores de humo y almacenamiento / las zonas sociales cubiertas por zonas verdes y jardines / agradables espacios en cancha de futbol, piscina y jardines con riego automatizado&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -11780,7 +11780,7 @@
           },
           "title4": "El condominio incluye",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mencionar los espacios y los detalles que tiene el condominio, o si es el caso, mencionar lugares cercanos si es propiedad fuera del condominio, enunciar lugares de interés cercanos como hospitales, estaciones de bus, restaurantes, centros educativos y comerciales, etc.&nbsp;",
+          "caption4": "El condominio cuenta con portería y vigilancia 24 horas, cámaras de seguridad, portón eléctrico, zonas sociales, parqueadero visitantes. Cerca a universidades, restaurantes, centros médicos y turísticos&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -12146,7 +12146,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/1-img-800x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image5-800x600.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",

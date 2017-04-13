@@ -1377,7 +1377,7 @@ h6,
 }
 #menu-4b .link[aria-expanded="true"],
 #menu-4b .dropdown-item[aria-expanded="true"] {
-  color: #c0a575 !important;
+  color: #c0a575!important;
 }
 #msg-box3-4d .mbr-section-title,
 #msg-box3-4d p {
@@ -2921,12 +2921,12 @@ h6,
 #header3-9z SMALL {
   font-size: 14px;
 }
-#features6-a0 P {
+#features6-ai P {
   color: #414141;
   font-size: 14px;
   text-align: center;
 }
-#features6-a0 H4 {
+#features6-ai H4 {
   color: #000000;
   font-size: 18px;
 }
